@@ -1,5 +1,3 @@
-[![Python application test with Github Actions](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml)
-
 # Overview
 
 <TODO: complete this with an overview of your project>
@@ -49,4 +47,5 @@ Port: 443
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
+
 
