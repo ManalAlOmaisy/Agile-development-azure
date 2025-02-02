@@ -9,7 +9,7 @@ variables:
   webAppName: 'myAgentPool'
 
   # Environment name
-  environmentName: 'myrepo2'
+  environmentName: 'myrepo'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
