@@ -6,7 +6,7 @@ variables:
   azureServiceConnectionId: 'myserviceconnection'
 
   # Web app name
-  webAppName: 'flask-ml-service'
+  webAppName: 'myagentvm'
 
   # Environment name
   environmentName: 'myrepo2'
