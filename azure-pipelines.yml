@@ -6,7 +6,7 @@ variables:
   azureServiceConnectionId: 'myserviceconnection'
 
   # Web app name
-  webAppName: 'myagentvm'
+  webAppName: 'myAgentPool'
 
   # Environment name
   environmentName: 'myrepo2'
