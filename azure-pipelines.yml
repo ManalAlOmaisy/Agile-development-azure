@@ -9,7 +9,7 @@ variables:
   webAppName: 'flask-ml-service'
 
   # Environment name
-  environmentName: 'myrepo'
+  environmentName: 'myrepo2'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
