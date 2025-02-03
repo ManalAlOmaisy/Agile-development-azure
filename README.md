@@ -1,15 +1,12 @@
 # Overview
 [![Python application test with Github Actions](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml)
 
-[![Build Status](https://dev.azure.com/odluser271785/Agile-development-azure/_apis/build/status%2FManalAlOmaisy.Agile-development-azure?branchName=main)](https://dev.azure.com/odluser271785/Agile-development-azure/_build/latest?definitionId=1&branchName=main)
-
-
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
+* [A link to a Trello board for the project](https://trello.com/b/01dG5ehS/udacity)
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
