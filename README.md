@@ -58,7 +58,9 @@ This project showcases the end-to-end development lifecycle, from coding and tes
 
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-* 
+
+![CloudShell_Prediction](https://github.com/user-attachments/assets/6463a866-d5e9-461d-add1-2d240d8d5e7a)
+
 The output should look similar to this:
 
 ```bash
