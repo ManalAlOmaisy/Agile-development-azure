@@ -25,7 +25,7 @@ This project showcases the end-to-end development lifecycle, from coding and tes
  Project Plan
 
 * [A link to a Trello board for the project](https://trello.com/b/01dG5ehS/udacity)
-* A link to a spreadsheet that includes the original and final project plan>
+* [A link to a spreadsheet>](https://github.com/ManalAlOmaisy/Agile-development-azure/blob/main/project-management-template.xlsx)
 
 ## Instructions
 
