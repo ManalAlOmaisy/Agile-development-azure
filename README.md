@@ -35,21 +35,30 @@ This project showcases the end-to-end development lifecycle, from coding and tes
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+  ![App_service](https://github.com/user-attachments/assets/08e2e66c-8be9-4667-88f0-c61f1c9256c2)
+
 
 * Project cloned into Azure Cloud Shell
-  
-![git_clone](https://github.com/user-attachments/assets/1f544ac4-3475-4858-bd3c-d260c2485e87)
+  ![git_clone](https://github.com/user-attachments/assets/1f544ac4-3475-4858-bd3c-d260c2485e87)
 
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+  ![makefile_test](https://github.com/user-attachments/assets/ee2e8c16-b41d-424d-864f-c3f5debe240e)
+
 
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+  
+<img width="1920" alt="deployPipelines" src="https://github.com/user-attachments/assets/f59c39b0-fb1f-4dd8-b1c3-4138f81006e6" />
+
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+  <img width="1920" alt="webapp_pipeline" src="https://github.com/user-attachments/assets/8d9cee7a-1a17-4eff-8653-961b5fa60ae5" />
+
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+* 
 The output should look similar to this:
 
 ```bash
@@ -59,6 +68,7 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
+<img width="1906" alt="Screenshot 2025-02-02 at 15 46 14" src="https://github.com/user-attachments/assets/68036f7b-b10e-4476-b771-a674a370aea3" />
 
 > 
 
