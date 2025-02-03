@@ -37,6 +37,9 @@ This project showcases the end-to-end development lifecycle, from coding and tes
 * Project running on Azure App Service
 
 * Project cloned into Azure Cloud Shell
+  
+![git_clone](https://github.com/user-attachments/assets/1f544ac4-3475-4858-bd3c-d260c2485e87)
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
