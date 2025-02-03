@@ -1,7 +1,25 @@
-# Overview
+
 [![Python application test with Github Actions](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/ManalAlOmaisy/Agile-development-azure/actions/workflows/pythonapp.yml)
 
-<TODO: complete this with an overview of your project>
+# Overview
+
+This project follows an Agile methodology to develop and deploy a Flask-based application using GitHub Actions and Azure Pipelines for an efficient CI/CD workflow. The key components of the project include:
+
+1. **Version Control & Collaboration:**
+  • **GitHub Repository**: hosts the Flask starter code.
+  • **GitHub Actions**: Enables automated version control and seamless collaboration.
+   
+2. **Continuous Deployment with Azure Pipelines**   
+  • **Azure Pipeline Deployment**: An Azure pipeline was created to automate the deployment of the application to an Azure Web App. The pipeline was configured to build and release updates with each code change, ensuring rapid iteration and deployment.
+
+3. **Self-Hosted Agent**:
+   • The pipeline runs on a self-hosted agent, offering greater control over the build environment.
+   
+4. **Prediction API Integration**:
+   • Post-deployment, the application interacts with an API endpoint to fetch real-time predictions.
+
+This project showcases the end-to-end development lifecycle, from coding and testing to deployment, demonstrating how Agile practices and cloud-based CI/CD tools streamline modern software development.
+
 
 ## Project Plan
 <TODO: Project Plan
