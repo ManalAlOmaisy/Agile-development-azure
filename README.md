@@ -66,7 +66,14 @@ From Azure portal, launch the Cloud Shell icon (top-right)
   
   ![makefile_test](https://github.com/user-attachments/assets/ee2e8c16-b41d-424d-864f-c3f5debe240e)
 
+* Setting up github action
   
+  * In project repo, going to Actions and start setting up an action with the name <name>.yml. Paste script in the YAML file. The source branch would be the main one here.
+  * Verify remote test is passing.
+
+  ![image](https://github.com/user-attachments/assets/847e91ac-07f8-43c1-af74-ce476c12767e)
+
+
 * Project running on Azure App Service
   
    * Deploy the Project to Azure App Service 
