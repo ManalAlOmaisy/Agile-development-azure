@@ -3,6 +3,9 @@
 
 # Overview
 
+![diagram-export-2-4-2025-4_01_35-PM](https://github.com/user-attachments/assets/b5ee9bda-cd0f-4375-a959-90b04bdcaaad)
+
+
 This project follows an Agile methodology to develop and deploy a Flask-based application using GitHub Actions and Azure Pipelines for an efficient CI/CD workflow. The key components of the project include:
 
 1. **Version Control & Collaboration:**
@@ -140,6 +143,14 @@ From Azure portal, launch the Cloud Shell icon (top-right)
 ## Demo 
 
 [youtube link](https://youtu.be/kRr9JwKvu4o)
+
+[youtube link for the review feedback for the Continuous Delivery ](https://youtu.be/xEpJEQE5xzI)
+  
+Missing the part to show how Continuous Delivery in azure portal are reflected as well
+
+[youtube link for the review feedback for the Continuous Delivery ](https://youtu.be/Hzx0o4yQZd8)
+
+
 
 
 
