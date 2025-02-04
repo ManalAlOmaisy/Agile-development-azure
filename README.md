@@ -148,7 +148,7 @@ From Azure portal, launch the Cloud Shell icon (top-right)
   
 Missing the part to show how Continuous Delivery in azure portal are reflected as well
 
-[youtube link for the review feedback for the Continuous Delivery ](https://youtu.be/Hzx0o4yQZd8)
+[youtube link continuous Delivery azure portal ](https://youtu.be/Hzx0o4yQZd8)
 
 
 
